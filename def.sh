@@ -58,8 +58,8 @@ echo $me"["$ku"1"$me"]" $pu"Belum Punya Target";
 echo $me"[============"$pu"=============]"
 echo $me"["$ku"2"$me"]" $pu"Sudah Punya Target";
 echo ""
-echo    "â•­â”€JAWAB LAH BRO:" |lolcat
-read -p "â•°â”€#" pil;
+echo    "JAWAB LAH BRO:" |lolcat
+read -p "==> " pil;
 
 case $pil in
 1)echo ""
@@ -83,6 +83,14 @@ http://holotropicbreathwork.co.za
 http://foodconsult.co.za
 http://daretogowildafrica.co.za
 http://hybriddevelopments.co.za
+http://karma-it.co.za
+http://khulaguesthouse.co.za/
+http://loveless.co.za/
+http://gearboxpros.co.za/
+http://petrolpumps.net/
+http://safemode.co.za/
+http://www.aquafitness.za.net/
+http://allanybrink.co.za/
 "
 
 echo ""
