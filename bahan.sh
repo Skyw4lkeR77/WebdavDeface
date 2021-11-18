@@ -5,5 +5,5 @@ gem install lolcat
 pkg install curl
 pip install termcolor
 clear
-figlet -f slant Suscses | lolcat
+figlet -f slant Success | lolcat
 echo "Selanjutnya Ketik sh def.sh"
