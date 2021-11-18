@@ -1,9 +1,9 @@
-# WebdavDeface
-~ Tools Deface ~
+# 💉WebdavDeface
+WebDAV merupakan singkatan dari (Web Distributed Authoring and Versioning) yaitu sebuah fitur webserver dimana client atau pengguna bisa mengatur/memanage konten pada sebuah server website. atau dengan kata lain WebDAV memberikan kita jalan untuk dapat mengakses file atau folder pada sebuah website. Bagaimana bentuknya ?, pernah melakukan file sharing menggunakan dropbox atau google drive ?, nah seperti itu bentuknya....nah Jadi Karna Ada Celah Pada webdav Kita Bisa Meng-upload Sc DEFACE Sesuka Kita Dan Menebas Tampilan Depan Web
 
 
 
-## Instalasi
+## ❓Instalasi
 ```
 $ pkg install git libcurl bash
 $ git clone https://github.com/Skyw4lkeR77/WebdavDeface
@@ -17,7 +17,7 @@ $ sh def.sh
 jangan di decode yaa ^_^
 
 
-## Dork :
+## 🔍 Dork :
 ```
 inurl:.gov.*/*.asp
 inurl:*.gov/*.asp
